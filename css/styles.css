@@ -1,0 +1,16 @@
+.main{
+	text-align: end;
+	background-color: grey;
+}
+.view{
+	text-align: center;
+	background-color: rgb(226,221,221);
+	border:1px solid grey;
+	border-left: none;
+}
+.orange{
+	text-align: center;
+	background-color: orange;
+	border:1px solid grey;
+	border-right:none;
+}
